@@ -1,8 +1,5 @@
-### Hi there 👋
 
-# Hi, I'm Peppe
-
-<img src="https://giuseppevignanello.com/assets/me-54159783.png" alt="Avatar" style="height: 320px; width: auto;">
+### Hi, I'm Peppe 👋
 
 ## About me
 Hi, I'm Giuseppe Vignanello an italian junior full stack web developer based in Barcelona. I have a a strong passion for technology, but also for books and storytelling. 
