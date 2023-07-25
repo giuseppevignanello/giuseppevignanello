@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+# Hi, I'm Peppe
+
+<img src="https://giuseppevignanello.com/assets/me-54159783.png" alt="Avatar" style="height: 320px; width: auto;">
+
+## About me
+Hi, I'm Giuseppe Vignanello an italian junior full stack web developer based in Barcelona. I have a a strong passion for technology, but also for books and storytelling. 
+
+My studies include both a more creative and theoretical background, which has given me experience in the world of publishing and storytelling, as well as a more technical background, with over 700 hours of lectures and exercises in web programming. 
+
+I have combined technical skills with a mindset that is both logical and creative. In creating each project, my goal is to build a solid development architecture focused primarily on the end user experience.
+
+## Tech Stack
+
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,react,laravel,php,nodejs,vite,scss,git,github,postman,mysql&perline=8">
+
+
+## Contacts
+<a href="https://www.linkedin.com/in/giuseppe-vignanello/">Linkedin</a>
+<a href="https://giuseppevignanello.com/" role="button">Portfolio</a>
+If you want to get in touch with me, you can send me an email at [peppe.vignanello@gmail.com].
+
+
+
 <!--
 **giuseppevignanello/giuseppevignanello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
