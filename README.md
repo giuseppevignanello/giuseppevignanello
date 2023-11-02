@@ -10,7 +10,7 @@ I have combined technical skills with a mindset that is both logical and creativ
 
 ## Tech Stack
 
- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,react,redux,laravel,php,npm,vite,scss,git,github,postman,mysql,java,spring&perline=8">
+ <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,react,redux,laravel,php,vite,scss,git,github,postman,mysql,java,spring&perline=8">
 
 
 ## Contacts
