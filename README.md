@@ -4,7 +4,7 @@
 ## About me
 Hi, I'm Giuseppe Vignanello an italian junior full stack web developer based in Barcelona. I have a a strong passion for technology, but also for books and storytelling. 
 
-My studies include both a more creative and theoretical background, which has given me experience in the world of publishing and storytelling, as well as a more technical background, with over 700 hours of lectures and exercises in web programming. 
+My studies include both a more creative and theoretical background, which has given me experience in the world of publishing and storytelling, as well as a more technical background, with over 1000 hours of lectures and exercises in web programming. 
 
 I have combined technical skills with a mindset that is both logical and creative. In creating each project, my goal is to build a solid development architecture focused primarily on the end user experience.
 
