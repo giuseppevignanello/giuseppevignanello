@@ -2,7 +2,7 @@
 ### Hi, I'm Peppe 👋
 
 ## About me
-Hi, I'm Giuseppe Vignanello an italian junior full stack web developer based in Barcelona. I have a a strong passion for technology, but also for books and storytelling. 
+Hi, I'm Giuseppe Vignanello an italian web developer based in Barcelona. I have a a strong passion for technology, but also for books and storytelling. 
 
 My studies include both a more creative and theoretical background, which has given me experience in the world of publishing and storytelling, as well as a more technical background, with over 1000 hours of lectures and exercises in web programming. 
 
