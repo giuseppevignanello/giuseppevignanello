@@ -1,5 +1,8 @@
 I'm an italian software developer based in Barcelona. 
 
+I mostly work in web development, both backend and frontend (including mobile). I also work in automation. The languages I use most often are PHP, JavaScript, Dart, and Python. The frameworks I work with are Laravel (and its whole ecosystem), Alpine, Vue, and Flutter.
+
+
 
 ## Contacts
 <a href="https://www.linkedin.com/in/giuseppe-vignanello/">Linkedin</a>
